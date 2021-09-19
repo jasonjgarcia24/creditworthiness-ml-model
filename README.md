@@ -127,12 +127,12 @@ The layout of this project is show below:<br>
 ***
 ## Installation Guide<a id="Installation-Guide">
 ### Project Installation
-To install <a href="https://github.com/jasonjgarcia24/ml-performance-clustering.git" title="https://github.com/jasonjgarcia24/ml-performance-clustering.git">creditworthiness-ml-model</a>, type <code>git clone https://github.com/jasonjgarcia24/ml-performance-clustering.git</code> into bash in your prefered local directory.<br><br>
-Alternatively, you can navigate to the same address (<code>https://github.com/jasonjgarcia24/ml-performance-clustering.git</code>) and download the full <code>main</code> branch's contents as a zip file to your prefered local directory.<br>
+To install <a href="https://github.com/jasonjgarcia24/creditworthiness-ml-model.git" title="https://github.com/jasonjgarcia24/creditworthiness-ml-model.git">creditworthiness-ml-model</a>, type <code>git clone https://github.com/jasonjgarcia24/creditworthiness-ml-model.git</code> into bash in your prefered local directory.<br><br>
+Alternatively, you can navigate to the same address (<code>https://github.com/jasonjgarcia24/creditworthiness-ml-model.git</code>) and download the full <code>main</code> branch's contents as a zip file to your prefered local directory.<br>
 
 ***
 ## License<a id="License">
-Each file included in this repository is licensed under the <a href="https://github.com/jasonjgarcia24/ml-performance-clustering/blob/2370b0c29d2c11c57d7c41d581612a5ca8c35503/LICENSE" title="LICENSE">MIT License.</a>
+Each file included in this repository is licensed under the <a href="https://github.com/jasonjgarcia24/creditworthiness-ml-model/blob/fba187fce9b5e68d58767f34c2bafd9c86d0947a/LICENSE" title="LICENSE">MIT License.</a>
 
 ***
 [Top of Page](#Top-of-Page)<br>
