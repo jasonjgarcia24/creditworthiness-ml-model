@@ -1,0 +1,17 @@
+.
+├── credit_risk_resampling.ipynb
+├── data
+│   └── lending_data.csv
+├── img
+│   ├── general-logistic-curve.png
+│   ├── y_original_balanced_accuracy_score.png
+│   ├── y_original_classification_report_imbalanced.png
+│   ├── y_original_confusion_matrix.png
+│   ├── y_original_value_counts.png
+│   ├── y_resampled_balanced_accuracy_score.png
+│   ├── y_resampled_classification_report_imbalanced.png
+│   ├── y_resampled_confusion_matrix.png
+│   └── y_resampled_value_counts.png
+├── LICENSE
+├── README.md
+└── tree.txt
