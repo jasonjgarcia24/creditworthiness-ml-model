@@ -113,6 +113,7 @@ The layout of this project is show below:<br>
 │   └── y_resampled_value_counts.png<br>
 ├── LICENSE<br>
 ├── README.md<br>
+├── requirements.txt<br>
 └── tree.txt<br>
 
 ***
