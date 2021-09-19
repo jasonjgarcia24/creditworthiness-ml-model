@@ -1,6 +1,6 @@
 # Welcome to the Creditworthiness Machine-Learning (ML) Model!<a id="Top-of-Page">
 ***
-## <a id="Contents">Cotents</a>
+## Cotents<a id="Contents">
 [Overview of Analysis](#Overview-of-Analysis)<br>
  - [Purpose of Analysis](#Overview-of-Analysis_Purpose-of-Analysis)<br>
  - [Applied Financial Dataset](#Overview-of-Analysis_Applied-Financial-Dataset)<br>
@@ -64,8 +64,9 @@ Given the two sets of accuracy reports for the above predictions, develop a quan
 
 #### Summary of ML Methods Used<a id="Overview-of-Analysis_Summary-of-ML-Methods-Used">
 The machine learning methods applied in this project are directly sourced from <a href="https://scikit-learn.org/stable" title="sklearn" target="_blank">scikit-learn</a>.<br><br>
-**Linear modeling** was used as the primary method for modeling our dataset. Specifically, the <a href="https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression" title="sklearn.linear_model.LogisticRegression" target="_blank">LogisticRegression</a> method was used for generating a linear model for classification. This method models the possible outcomes using a logistic function or logistic curve. A model of a general logistic curve is shown below:
-    <center><img src="img/general-logistic-curve.png" title="general logistic curve"></center><br>
+**Linear modeling** was used as the primary method for modeling our dataset. Specifically, the <a href="https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression" title="sklearn.linear_model.LogisticRegression" target="_blank">LogisticRegression</a> method was used for generating a linear model for classification. This method models the possible outcomes using a logistic function or logistic curve. A model of a general logistic curve is shown below:<br>
+<center><img src="img/general-logistic-curve.png" title="general logistic curve"></center>
+
 **Resampling** was used to address the imbalanced, or under-represented, class of "high-risk" loans. The <a href="https://imbalanced-learn.org/stable/over_sampling.html#random-over-sampler" title="imblearn.over_sampling.RandomOverSampler" target="_blank">RandomOverSampler</a> method used does this by intentionally generating new samples by randomly sampling with replacment the current available samples.
 
 ***
@@ -131,16 +132,29 @@ To install <a href="https://github.com/jasonjgarcia24/creditworthiness-ml-model.
 Alternatively, you can navigate to the same address (<code>https://github.com/jasonjgarcia24/creditworthiness-ml-model.git</code>) and download the full <code>main</code> branch's contents as a zip file to your prefered local directory.<br>
 
 ***
+## Contributors<a id="Contributors">
+Currently just me :)<br>
+
+***
 ## License<a id="License">
 Each file included in this repository is licensed under the <a href="https://github.com/jasonjgarcia24/creditworthiness-ml-model/blob/fba187fce9b5e68d58767f34c2bafd9c86d0947a/LICENSE" title="LICENSE">MIT License.</a>
 
 ***
 [Top of Page](#Top-of-Page)<br>
 [Contents](#Contents)<br>
-[Project Description](#Project-Description)<br>
+[Overview of Analysis](#Overview-of-Analysis)<br>
+ - [Purpose of Analysis](#Overview-of-Analysis_Purpose-of-Analysis)<br>
+ - [Applied Financial Dataset](#Overview-of-Analysis_Applied-Financial-Dataset)<br>
+ - [Sampling Methods](#Overview-of-Analysis_Sampling-Methods)<br>
+ - [Quantifying Values and Reports](#Overview-of-Analysis_Quantifying-Values-and-Reports)<br>
+ - [Applied Supervised ML Methods](#Overview-of-Analysis_Applied-Supervised-ML-Methods)<br>
+ - [Summary of ML Methods Used](#Overview-of-Analysis_Summary-of-ML-Methods-Used)<br>
+
+[Results](#Results)<br>
+[Summary](#Summary)<br>
+[Project Layout](#Project-Layout)<br>
 [Technologies and Resources](#Technologies-Resources)<br>
 [Installation Guide](#Installation-Guide)<br>
-[Usage](#Usage)<br>
 [Contributors](#Contributors)<br>
 [License](#License)<br>
 <a id="Bottom-of-Page"></a>
